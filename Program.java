@@ -19,8 +19,5 @@ class api03
 	
 		}
 		scn.close();
-		//LOV 
-		//Loveeeee54567458
-		//Love
 	}
 }
